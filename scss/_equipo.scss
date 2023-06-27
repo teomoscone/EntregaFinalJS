@@ -1,0 +1,83 @@
+
+// VARIABLES
+$tamañoFuenteequipo: 20px;
+
+.sectionindex{
+    .titulocontacto{
+        margin: 0px
+    }
+}
+
+.fondoequipo{
+    background-image: url(../multimedia/fondoquipo.png);
+    background-size: cover;
+    background-position: center;
+    height: 200vh;
+    position: relative;
+    .sectionequipo{
+        .fotosequipo{
+            margin-right: auto;
+            margin-left: auto;
+            margin-top: 80px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            .textoequipo1{
+                display: flex;
+                flex-direction: row;
+                justify-content: flex-end;
+                background-color: rgba(0, 0, 0, 0.7);
+                img{
+                    width: 300px;
+                    height: 300px;
+                    margin-left: 60px;
+                    margin-right: 60px;
+                    margin-top: 50px;
+                    margin-bottom: 50px;
+                    border: 4px solid rgb(255, 255, 255);
+                    padding: 0px;
+                    &:hover{
+                        transform: scale(1.2);
+                    }
+                }
+                p{
+                    margin-top: 50px;
+                    color: white;
+                    font-family: 'Montserrat', sans-serif;
+                    font-weight: bold;
+                    font-size: $tamañoFuenteequipo;
+                    text-decoration: underline;
+                }
+            }
+            .textoequipo2{
+                display: flex;
+                flex-direction: row;
+                justify-content: flex-end;
+                background-color: rgba(178, 255, 178, 0.9);
+                img{
+                    width: 300px;
+                    height: 300px;
+                    margin-left: 60px;
+                    margin-right: 60px;
+                    margin-top: 50px;
+                    margin-bottom: 50px;
+                    border: 4px solid rgb(255, 255, 255);
+                    padding: 0px;
+                    &:hover{
+                        transform: scale(1.2);
+                    }
+                }
+                p{
+                    margin-top: 50px;
+                    color: white;
+                    font-family: 'Montserrat', sans-serif;
+                    font-weight: bold;
+                    font-size: $tamañoFuenteequipo;
+                    color: black;
+                    text-decoration: underline;
+                
+                }
+            }
+        }
+    }
+}

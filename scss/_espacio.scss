@@ -1,0 +1,49 @@
+
+
+
+.sectionindex{
+    .tituloespacio{
+        color: $colorTitulos;
+        font-size: 50px;
+        text-align: center;
+        float: top;
+        background-color: rgb(0, 0, 0);
+        margin-bottom: 0px;
+    }
+}
+
+.fondonosotros{
+    background-image: url(../multimedia/FOTOFONDOESPACIO.png);
+    background-size: cover;
+    background-position: center;
+    height: 250vh;
+    .sectionespacio{
+        .fotosnosotros1{
+            margin-right: auto;
+            margin-left: auto;
+            margin-top: 20px;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            .column1{
+                margin-left: 50px;
+                margin-right: 50px;
+                img{
+                    width: 100%;
+                    padding: 0px;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                    width: 300px;
+                    height: 340px;
+                    border: 2px solid rgb(0, 0, 0);
+                    &:hover{
+                        transform: scale(1.5);
+                    }
+                }
+            }
+        }
+    }
+}
+
+

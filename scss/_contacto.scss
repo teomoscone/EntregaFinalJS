@@ -1,0 +1,46 @@
+
+
+
+.fondocontacto{
+    background-image: url(../multimedia/fondocontacto.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+    .sectionindex{
+        .titulocontacto{
+            color: $colorTitulos;
+            font-size: 50px;
+            text-align: center;
+            background-color: black;
+        }
+    }
+    .titulocontacto2{
+        color: rgb(255, 255, 255);
+        background-color: black;
+        font-family: 'Montserrat', sans-serif;
+        font-style: italic;
+        font-weight: bold;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-start;
+        margin-top: 10px;
+        margin-bottom: 30px;
+        font-size: 25px;
+    }
+    .contenedorform{
+        .formulario{
+            margin-top: 10px;
+            background-color: rgba(207, 207, 207, 0.5);
+            color:rgb(0, 0, 0);
+            font-style: bold;
+            padding: 20px;
+            font-family: 'Montserrat', sans-serif;
+            .cajaform{
+                margin-bottom: 10px;
+                font-size: 20px;
+            }
+        }
+    } 
+}

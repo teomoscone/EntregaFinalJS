@@ -1,0 +1,22 @@
+{
+    "alumnos": [
+      {
+        "cedula": 1111,
+        "nombre": "Mateo",
+        "apellido": "Moscone",
+        "email": "mateo@gmail.com",
+        "cuota": "",
+        "frecuencia": "5",
+        "formaDePago":"Anual"
+      },
+      {
+        "cedula": 2222,
+        "nombre": "Facundo",
+        "apellido": "Cordero",
+        "email": "facundo@gmail.com",
+        "cuota": "",
+        "frecuencia": "3",
+        "formaDePago":"Mensual"
+      }
+    ]
+}

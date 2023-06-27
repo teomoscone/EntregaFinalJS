@@ -1,0 +1,25 @@
+
+
+.fondoservicios{
+    background-image: url(../multimedia/fondoservicios.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+    .serviciostitulo{
+        text-align: center;
+        font-size: 50px;
+        float: top;
+        background-color: rgb(0, 0, 0);
+    }
+    .horarios{
+        position: absolute;
+        bottom: 10%;
+        width: 100%;
+        text-align: center;
+        img{
+            width:  650px;
+            height: 450px;
+        }
+    }
+}

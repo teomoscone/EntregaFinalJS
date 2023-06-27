@@ -1,0 +1,27 @@
+
+
+.fondoubicacion{
+    background-image: url(../multimedia/fondoubicacion.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+    .sectionindex{
+        .titulonosotros{
+        text-align: center;
+        background-color: black;
+        height: auto;
+        font-size: 50px;
+        }
+    }
+    .section2{
+        .cajamapa{
+            width: 100%;
+            text-align: center;
+            .mapa{
+                width:calc(100vw - 150px);
+                height: 400px;
+            }
+        }
+    }
+}

@@ -1,0 +1,860 @@
+/* 
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+
+/* 
+.fondodeheader{
+
+    background-color: rgb(255, 255, 255);
+    border-bottom: 2px solid rgb(0, 0, 0);
+    position: relative;
+}
+
+.logotipo{  
+
+    display: flex;
+    width: 160px;
+    height: 150px;
+    margin-left: 60px;
+} */
+
+
+/* nav ul{
+
+    color: rgb(0, 0, 0);
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 18px;
+    font-style: italic;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 10px;
+    
+}
+
+nav ul li{
+    
+    font-family: 'Manrope', sans-serif;
+    padding: 6px;
+    margin: 6px;
+} */
+
+
+
+/* .fotofondo {
+
+    background-image: url(../multimedia/FOTO1\ -\ Editado.png);
+    background-size: cover;
+    background-position: center;
+} */
+
+/* a{
+
+    text-decoration: none;
+    color: black;
+    
+} */
+
+
+/* 
+h1{
+
+    color:rgb(255, 255, 255);
+    font-family: 'Fugaz One', cursive;
+} */
+
+/* .fmtraining{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    text-align: right;
+    letter-spacing: 35px;
+    text-decoration: underline 4px green;
+    font-family: 'Fugaz One', cursive;
+} */
+
+
+/* .fuerzaymente{
+
+    color:rgb(76, 165, 41);
+    letter-spacing: 4px;
+    font-family: 'Fugaz One', cursive;
+    font-size: 80px;
+    text-align: center;
+    /* display: flex;
+    flex-direction: row;
+    justify-content: center;  */
+    /* margin-top: 200px;
+}  */ 
+
+
+/* .tamañoparrafo{
+
+    width: 200px;
+    height: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.titulo2inicio{
+
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 150px;
+    margin-left: auto;
+
+    width: 560px;
+
+} */
+
+/* .cajas{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.caja1{
+
+    background-color: rgb(0, 0, 0);
+    width: 200px;  
+    font-family: 'Fugaz One', cursive;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.caja2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    width: 200px;
+    font-family: 'Fugaz One', cursive;
+    color: white;
+}
+
+
+
+.iconocronograma{
+    width: 80px;
+    height: 80px;
+
+
+} */
+
+/* SERVICIOS */
+/* div.horarios {
+    width: 100%;
+    text-align: center;
+
+}
+.horarios img{
+    width:  650px;
+    height: 450px;
+
+} */
+
+/* CONTACTO HTML */
+
+/* .fondocontacto{
+    background-image: url(../multimedia/fondocontacto.png);
+    background-size: cover;
+    background-position: center;
+    height: 200vh;
+    position: relative;
+}
+
+
+.titulocontacto{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    text-align: center;
+    background-color: black;
+}
+
+.titulocontacto2{
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    position: absolute;
+    bottom: 295px;
+    font-size: 20px;
+
+
+
+} */
+
+/* form{
+
+    background-color: rgb(187, 187, 187);
+    color:rgb(75, 75, 75);
+    position: absolute;
+    bottom: 0px;
+} 
+
+.footer1{
+    background-color: black;
+    
+}
+
+.derechos p{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: black;
+    position: absolute;
+    right: 10px;
+}
+
+.iconoinsta{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(148, 255, 116);
+    
+}
+
+.caja3{
+    display: inline-block;
+
+}
+
+.caja4{
+    display: inline-block;
+    font-family: 'Fugaz One', cursive;
+}
+
+div.caja4 a{
+color: white;
+}
+
+.divfooter{
+    padding: 0%;
+} */
+
+/* NOSOTROS HTML */
+
+
+/* .titulonosotros{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(0, 0, 0);
+} */
+
+/* .fotosnosotros{
+    width: 530px;
+    height: 1110px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: center;
+    border: 2px solid white;
+}
+
+.fotosnosotros img:hover{
+    transform: scale(1.5);
+} */
+
+/* .sectionparrafo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(141, 255, 141);
+} */
+
+
+/* .parrafonosotros{
+
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    line-height: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-align: left;
+
+} */
+
+
+/* .fotofondo2{
+
+    background-image: url(../multimedia/fondonosotros.png);
+    background-size: cover;
+    background-position: center;
+    height: 250vh;
+    
+
+
+} */
+
+
+/* SERVICIOS HTML */
+
+/* .fondoservicios{
+    background-image: url(../multimedia/fondoservicios.png);
+    background-size: cover;
+    background-position: center;
+    height: 200vh;
+    position: relative;
+}
+
+div.horarios{
+    position: absolute;
+    bottom: 10%
+
+}
+
+
+.serviciostitulo{
+    text-align: center;
+    font-size: 50px;
+    float: top;
+    background-color: rgb(0, 0, 0);
+
+} */
+
+
+/* .fondonosotros{
+
+    background-image: url(../multimedia/FOTO\ FONDO\ ESPACIO.png);
+    background-size: cover;
+    background-position: center;
+    height: 200vh;
+} */
+
+
+/* ESPACIO HTML */
+
+/* .tituloespacio{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    text-align: center;
+    float: top;
+    background-color: rgb(0, 0, 0);
+
+} */
+
+/* EQUIPO HTML */
+
+/* .fondoequipo{
+    background-image: url(../multimedia/fondoquipo.png);
+    background-size: cover;
+    background-position: center;
+    height: 200vh;
+    position: relative;
+} */
+
+/* UBICACIÓN HTML */
+
+/* .fondoubicacion{
+    background-image: url(../multimedia/fondoubicacion.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+}
+.cajamapa{
+    width: 100%;
+    text-align: center;
+}
+
+.mapa{
+    width: 500px;
+    height: 400px;
+    
+} */
+
+
+/* GRID INDEX */
+
+
+/* .contenedor1{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0,5fr 1fr 0,1fr;
+    grid-template-areas: 
+    "nav"
+    "main"
+    "footer";
+} */
+/* 
+.fondodeheader{
+    grid-area: nav;
+}
+
+.fotofondo{
+    grid-area: main;
+}
+
+.footer1{
+    grid-area: footer;
+} */
+/* .nav{
+    display: flex;  
+    flex-direction: row;
+    justify-content: space-between;
+
+} */
+
+
+/* .navegador{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr;
+    grid-template-areas:
+    "logo menu1"
+} */
+/* 
+.logotipo{
+    grid-area: logo;
+}
+
+.menu1{
+    grid-area: menu1;
+}
+
+.fmtraining{
+    grid-area: menu1;
+} */
+
+/* .contenido{
+
+    /* grid-area: menu1;*/
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    
+    /* grid-template-columns: 1fr; 
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas:
+    /* "menu1" */
+    /* "fmtraining" */
+
+
+/* .menu1{
+    grid-area: menu1;
+
+} */
+
+/* .fmtraining{
+    /* grid-area: fmtraining;  */
+    /* margin-right: 10px;
+} */ 
+
+/* GRID NOSOTROS */
+
+
+/* .cajafotos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px;
+} */
+
+/* .cajanosotros{
+    padding: 0px;
+    width: 400px;
+} */
+/* .titulonosotros{
+    margin: 0px;
+} */
+
+/* .sectionnosotros1{
+    background-color: gray;
+} */
+/* TAMAÑO TABLET 768px*/
+
+/* @media screen and (max-width: 768px){ */
+/* 
+    .contenedor1{
+        display: grid;
+        grid-template-rows: 0,3fr 1fr 0,2fr;
+        grid-template-areas: 
+        "nav"
+        "main"
+        "footer";
+    } */
+
+/* .contenido{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+} */
+
+    /* .fondodeheader{
+        background-color: rgb(174, 255, 156)
+    } */
+/* 
+    .fotofondo{
+        grid-area: main;
+    } */
+
+    /* .footer1{
+        background-color: rgb(0, 0, 0)
+    
+    }  */
+
+/* .navegador{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0,5fr 1fr;
+    grid-template-areas:
+    "logo"
+    "menu1"
+} */
+
+/* .logotipo{ */
+    /* grid-area: logo;  */
+    /* display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; */
+    /* width: 160px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto; */
+/* } */
+
+/* .contenido{ */
+    /* grid-area: menu1; 
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas:
+    "fmtraining"
+    "menu1" */
+    /* margin: auto;
+} */
+
+/* .menu1{ */
+    /* grid-area: menu1; */
+    /* justify-content: space-around;
+    align-items: center; 
+    font-size: 15px;
+} */
+/* .fmtraining{
+    grid-area: fmtraining;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: auto;
+    letter-spacing: 15px;
+    
+} */
+
+/* .titulocontacto{
+    font-size: 25px;
+    letter-spacing: 15px;
+    
+} */
+
+/* .fuerzaymente{
+    font-size: 60px ;
+}
+
+.titulo2inicio{
+    font-size: 20px;
+}
+
+.cajasinicio{
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.derechos{
+    font-size: 10px;
+
+} */
+
+/* TABLET NOSOTROS */
+/* 
+.menu1{
+    padding: 0px;
+} */
+/* .sectionnosotros{
+    grid-template-columns: 1fr;
+} */
+/* .cajafotos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding-top: 20px;
+} */
+
+/* 
+.titulonosotros{
+    font-size: 25px;
+    letter-spacing: 15px;
+    
+} */
+
+
+/* .fotofondo2{
+    grid-template-columns: 1fr;
+} */
+
+/* .parrafonosotros{
+    font-size: 15px;
+    font-weight: bold;
+    height: 285px;
+    width: 100%;
+    line-height: 20px;
+    color: white;
+    margin: auto;
+    padding-top: 50px;
+    border-top: 1px solid white;
+    text-align: center;
+
+} */
+
+/* .cajanosotros{
+    width: 100%;
+    padding: 0px;
+    background-color: black;
+} */
+
+/* .sectionnosotros{
+    padding: 0px;
+} */
+/* .footernosotros{
+    border-top: 1px solid white;
+}
+.divfooter{
+    padding: 0%;
+} */
+
+
+
+/* TAMAÑO MOBILE 425px*/
+
+@media screen and (max-width: 425px){
+
+/* MOBILE INDEX */
+
+/* .contenedor1{
+    background-color: rgb(148, 255, 116);
+} */
+
+/* .nav{
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-areas: 
+    "logotipo contenido"
+    }
+
+.logotipo{
+    grid-area: logotipo;
+    } */
+
+/* .contenido{
+    grid-area: contenido;
+} */
+
+/* .fondodeheader{
+    background-color: rgb(141, 141, 141);
+} */
+/* 
+.logotipo{
+    margin: 0px;
+    height: 80px;
+    width: 100px;
+    background-color: rgb(0, 0, 0);
+} */
+
+/* .menu1{
+    font-size: 10px;
+    margin: 0px;
+    font-weight: bold;
+}
+
+nav ul li{
+    margin: 0px;
+    padding: 2px;
+} */
+
+/* .titulocontacto{
+    font-size: 15px;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    padding: 0px;
+} */
+
+/* .sectionindex{
+    padding: 0px;
+    
+} */
+
+/* .fuerzaymente{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    margin-top: 50px;
+}
+
+.titulo2inicio{
+    color: rgb(255, 255, 255);
+}
+
+.cajas{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.caja1{
+    background-color: transparent;
+    margin-bottom: 20px;
+}
+
+.caja2{
+    background-color: transparent;
+    margin-bottom: 80px;
+} */
+/* 
+.frase{
+    display: none;
+} */
+
+/* .tamañoparrafo{
+    margin-bottom: 20px;
+    height: 100px;
+} */
+
+/* .iconocronograma{
+    height: 50px;
+    width: 50px;
+} */
+
+/* .frase{
+    font-size: 10px;
+} */
+
+/* .derechos{
+    font-size: 8px;
+} */
+/* .caja4{
+    font-size: 10px;
+} */
+
+/* .divfooter{
+    padding: 0%;
+} */
+
+/* .footer1{
+    margin-top: 20px;
+} */
+
+/* MOBILE NOSOTROS */
+
+/* .divnosotros{
+    padding: 0px;
+}
+
+.titulonosotros{
+    font-size: 15px;
+} */
+
+/* .fotofondo2{
+    height: 114vh;
+} */
+
+/* .fotosnosotros{
+    width: 250px;
+    height: 500px;
+    border: none;
+} */
+
+/* .cajanosotros{
+    height: 120px;
+}
+
+.parrafonosotros{
+    font-size: 8px;
+    padding: 0px;
+    line-height: 12px;
+    height: 120px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+} */
+
+/* .divfooter{
+    padding: 0%;
+} */
+
+
+
+}
+
+@media screen and (max-width: 320px){
+
+    .navegador{
+    background-color: white;
+    }
+
+.nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.logotipo{
+    height: 40px;
+    width: 60px;
+    background-color: transparent;
+    }
+
+.fmtraining{
+    margin: 0%;
+}
+
+.fuerzaymente{
+    font-size: 25px;
+}
+
+.titulo2inicio{
+    font-size: 15px;
+}
+
+.contenido{
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.parrafonosotros{
+    font-size: 6px;
+
+}
+}
